@@ -1,0 +1,14 @@
+```
+{
+  "name": "mrclay06-whatsapp-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "twilio": "^3.70.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+```
